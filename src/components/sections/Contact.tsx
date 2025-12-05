@@ -17,7 +17,7 @@ export const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'gourav@example.com', href: 'mailto:gourav@example.com' },
+    { icon: Mail, label: 'Email', value: 'gouravgangwar123456@gmail.com', href: 'mailto:gouravgangwar123456@gmail.com' },
     { icon: Phone, label: 'Phone', value: '+91 8688871356', href: 'tel:+918688871356' },
     { icon: Github, label: 'GitHub', value: 'github.com/gourav', href: 'https://github.com' },
     { icon: Linkedin, label: 'LinkedIn', value: 'linkedin.com/in/gourav', href: 'https://linkedin.com' },
@@ -188,7 +188,6 @@ export const Contact = () => {
               </div>
               <div>
                 <div className="font-mono text-sm text-foreground">Available for opportunities</div>
-                <div className="font-mono text-xs text-muted-foreground">Response time: ~24 hours</div>
               </div>
             </div>
           </motion.div>

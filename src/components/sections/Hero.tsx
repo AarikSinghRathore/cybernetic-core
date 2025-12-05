@@ -180,13 +180,6 @@ export const Hero = () => {
                 <FolderOpen className="w-5 h-5 transition-transform group-hover:rotate-12" />
                 View Projects
               </a>
-              <a 
-                href="#contact"
-                className="btn-neon-outline group flex items-center gap-2"
-              >
-                <Download className="w-5 h-5 transition-transform group-hover:translate-y-1" />
-                Download Resume
-              </a>
             </motion.div>
 
             {/* Stats */}
